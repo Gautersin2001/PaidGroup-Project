@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.fatherBlockOne,
+.fatherBlockOneTwo {
+  width: 100%;
+  display: flex;
+}
+
+.fastStartBlock {
+  display: flex;
+  flex-direction: column;
+}
+
+.fastStartLogo {
+  font-size: 40px;
+  color: black;
+}
+
+.fastStartContentBlock {
+  display: flex;
+  margin-top: 5%;
+  align-items: center;
+}
+
+.fastStartImg {
+  width: 10%;
+  height: 65%;
+}
+
+.fastStartContentBlockTwo {
+  margin-left: 3%;
+}
+
+.fastStartTextOne {
+  font-size: 24px;
+  color: #141B41;
+}
+
+.fastStartTextTwo {
+  font-size: 18px;
+  color: #72727E;
+  margin-top: 3%;
+}/*# sourceMappingURL=FastStart.css.map */

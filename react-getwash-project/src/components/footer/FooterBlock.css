@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.fatherBlockFive {
+  margin-top: 10%;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #141B41;
+  height: 5rem;
+}
+
+.headerLogoClass {
+  color: #446DF6;
+}
+
+.routeClassBlock {
+  display: flex;
+  width: 40%;
+  justify-content: space-between;
+}
+
+.routeTextClass {
+  font-size: 18px;
+  color: #72727E;
+  text-decoration: none;
+}
+
+.headerButtonTwo {
+  background-color: #141B41;
+  border-color: #E9ECF5;
+  border: 2px;
+  color: #446DF6;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+}
+
+.headerButton:hover {
+  cursor: pointer;
+}/*# sourceMappingURL=FooterBlock.css.map */

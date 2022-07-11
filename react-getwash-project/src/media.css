@@ -1,0 +1,154 @@
+@media(max-width:768px){
+    .headerLogoClass {
+        font-size: 20px;
+    }
+    .routeClassBlock {
+        width: 42%;
+    }
+    .routeTextClass {
+        font-size: 14px;
+    }
+    .headerLogoText {
+        font-size: 20px;
+    }
+    .headerLogoWeCan {
+        font-size: 15px;
+    }
+    .headerLogoButton {
+        height: 13%;
+    }
+    .fastStartLogo {
+        font-size: 25px;
+        color: black;
+    }
+    .fastStartLogo {
+        font-size: 25px;
+    }
+    .fastStartTextTwo {
+        font-size: 15px;
+    }
+    .fastStartImg {
+        height: 40%;
+    }
+    .fastStartImgOne {
+       width: 35%;
+    }
+    .beAPatnerLogoOne {
+        font-size: 25px;
+        margin-top: 10%;
+    }
+    .beAPatnerLogoTwo {
+        font-size: 15px;
+    }
+    .beAPatnerContentBlock {
+        width: 86%;
+    }
+    .ImgBlockText {
+        font-size: 15px;
+    }
+    .ImgBlockButton {
+        width: 28%;
+        height: 3rem;
+
+    }
+    .fatherBlockSix {
+        align-items: end;
+    }
+    .imgFourteen{
+        width: 30%;
+    }
+    .LessTimeImgBlock {
+        margin-top: 6%;
+        padding-bottom: 2%;
+    }
+}
+
+@media (max-width:426px){
+    
+    .headerLogoClass {
+        font-size: 20px;
+    }
+    .routeTextClass {
+        font-size: 14px;
+    }
+    .headerButton {
+        padding: 10px 10px;
+        font-size: 14px;
+    }
+    .fatherBlockOne {
+        display: flex;
+        flex-direction: column;
+    }
+    .beAPatnerContentBlock {
+        display: flex;
+        flex-direction: column;
+    }
+    .routeClassBlock {
+        width: 80%;
+        margin-top: 3%;
+    }
+    .headerButton {
+        margin-top: 4%;
+    }
+    .fatherBlockTwo {
+        margin-top: 10%;
+    }
+    .headerLogoTextClass {
+        display: flex;
+        flex-direction: column;
+        padding-left: 3%;
+    }
+    .headerLogoButton {
+        height: 13%;
+        width: 45%;
+    }
+    .fastStartLogo {
+        font-size: 20px;
+    }
+    .fastStartTextOne {
+        font-size: 16px;
+        color: #141B41;
+    }
+    .fastStartTextTwo {
+        font-size: 14px;
+    }
+    .fastStartImgOne {
+        width: 35%;
+        height: 50%;
+    }
+    .beAPatnerLogoOne {
+        font-size: 20px;
+        margin-top: 10%;
+    }
+    .beAPatnerLogoText{
+        padding: 5%;
+    }
+    .ImgBlockText {
+        font-size: 15px;
+        margin-top: 6%;
+        margin-bottom: 3%;
+    }
+    .ImgBlockButton {
+        width: 47%;
+        height: 2rem;
+    }
+    .fatherBlockSix {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .LessTimeTextOne {
+        font-size: 30px;
+    }
+    .LessTimeTextTwo {
+        font-size: 17px;
+    }
+    .fatherBlockFive {
+        display: flex;
+        height: 6rem;
+        flex-direction: column;
+    }
+    .headerButtonTwo {
+        padding: 10px 32px;
+    }
+}

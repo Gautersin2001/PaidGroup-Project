@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.fatherBlockSix {
+  width: 100%;
+  margin-top: 5%;
+  display: flex;
+  justify-content: space-around;
+  background-color: #446DF6;
+  width: 90%;
+  align-items: center;
+  margin-left: 4%;
+  border-radius: 20px;
+}
+
+.LessTimeTextOne {
+  font-size: 40px;
+  color: #F7F8FD;
+}
+
+.LessTimeTextTwo {
+  margin-top: 3%;
+  font-size: 18px;
+  color: #E9ECF5;
+}
+
+.LessTimeImgBlock {
+  margin-top: 6%;
+  display: flex;
+  justify-content: space-between;
+}/*# sourceMappingURL=LessTime.css.map */

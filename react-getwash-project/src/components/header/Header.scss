@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.fatherBlockOne{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 1%;
+}
+
+
+.headerLogoClass{
+  color: #446DF6;
+}
+
+
+.routeClassBlock{
+    display: flex;
+    width: 40%;
+    justify-content: space-between;
+}
+
+
+.routeTextClass{
+    font-size: 18px;
+    color: #72727E;
+    text-decoration: none;
+}
+
+.headerButton{
+    background-color: white; 
+    border: 1px solid #E9ECF5;
+    color: #446DF6;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+}
+
+.headerButton:hover{
+    cursor: pointer;
+}
+
+ 
+
+
+

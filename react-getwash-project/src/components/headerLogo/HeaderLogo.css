@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.fatherBlockTwo {
+  width: 100%;
+  margin-top: 5%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.headerLogoTextClass {
+  display: flex;
+  flex-direction: column;
+}
+
+.headerLogoText {
+  font-size: 30px;
+  color: #141B41;
+}
+
+.headerLogoWeCan {
+  margin-top: 4%;
+  font-size: 20px;
+  color: #72727E;
+}
+
+.headerLogoButton {
+  margin-top: 4%;
+  width: 33%;
+  border-radius: 6px;
+  background: #446DF6;
+  color: white;
+  height: 10%;
+}
+
+.headerLogoButton:hover {
+  cursor: pointer;
+}
+
+.headerLogoImg {
+  width: 45%;
+}/*# sourceMappingURL=HeaderLogo.css.map */
