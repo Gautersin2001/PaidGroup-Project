@@ -1,0 +1,33 @@
+@media(max-width:768px) {
+    .HeaderNavigation {
+        width: 40%;
+    }
+
+    .HeaderNavigationText {
+        font-size: 15px;
+    }
+    .ApiTitle {
+        text-align: center;
+    }
+}
+
+@media(max-width:426px) {
+    .FatherBlockOne {
+        flex-direction: column;
+        height: 7rem;
+    }
+
+    .HeaderNavigation {
+        width: 80%;
+    }
+    .ApiTitle {
+        font-size: 15px;
+    }
+    .FatherBlockThree {
+        height: 7rem;
+        flex-direction: column;
+    }
+    .ApiTitle {
+        text-align: center;
+    }
+}

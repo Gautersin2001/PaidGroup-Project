@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.FatherBlockOne {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: rgb(232, 212, 212);
+  height: 4rem;
+}
+
+.ShopName {
+  font-weight: 500;
+  font-size: 24px;
+  color: #f2f2f0;
+}
+
+.HeaderNavigation {
+  display: flex;
+  justify-content: space-between;
+  width: 30%;
+}
+
+.HeaderNavigationText {
+  color: #f2f2f0;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.HeaderButton {
+  font-weight: 700;
+  color: white;
+  text-decoration: none;
+  padding: 0.8em 1em calc(0.8em + 3px);
+  border-radius: 3px;
+  background-color: transparent;
+  border-color: white;
+  cursor: pointer;
+}
+
+.HeaderLink {
+  text-decoration: none;
+}/*# sourceMappingURL=Header.css.map */
