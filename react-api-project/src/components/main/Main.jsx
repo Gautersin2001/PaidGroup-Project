@@ -10,7 +10,7 @@ function Main() {
     }, [])
     return (
         <div className='FatherBlockTwo'>
-            <ul>{api.map((item, index) => {
+            <ul className='ApiBlock'>{api.map((item, index) => {
                 return (
                     <li className='ApiLi' key={index}>
                         <img className='ApiIMG' src={item.image} />

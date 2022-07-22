@@ -11,7 +11,7 @@ function Footer() {
                     <a className='HeaderLink' href='#'><p className='HeaderNavigationText'>РАСПРОДАЖА</p></a>
                     <a className='HeaderLink' href='#'><p className='HeaderNavigationText'>КОНТАКТЫ</p></a>
                 </div>
-                <button className='HeaderButton'>+7 906 04 04 776</button>
+                <button className='HeaderButton'><a href= 'tel:+79060404776'>+7 906 04 04 776</a></button>
             </div>
     )
 }

@@ -4,7 +4,15 @@
 }
 
 .FatherBlockTwo {
+  display: flex;
+  justify-content: center;
   width: 100%;
+}
+
+.ApiBlock {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
 }
 
 .ApiLi {
@@ -12,6 +20,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  width: 300px;
 }
 
 .ApiIMG {

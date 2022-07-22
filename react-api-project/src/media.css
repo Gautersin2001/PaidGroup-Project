@@ -31,3 +31,9 @@
         text-align: center;
     }
 }
+
+@media(max-width:736px){
+    .HeaderNavigation {
+        width: 46%;
+    }
+}
